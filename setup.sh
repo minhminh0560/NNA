@@ -1,1 +1,1 @@
-export PYTHONPATH=/home/tsunn/Workspace/free/Neural-Network-Approximation/:$PYTHONPATH
+export PYTHONPATH=/home/tsunn/Workspace/free/Neural-Network-Approximation /:$PYTHONPATH
